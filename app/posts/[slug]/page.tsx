@@ -2,7 +2,6 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug } from "@/lib/api";
 import { CMS_NAME } from "@/lib/constants";
-import Alert from "@/components/alert";
 import markdownToHtml from "@/lib/markdownToHtml";
 import Container from "@/components/container";
 import Header from "@/components/header";
@@ -20,7 +19,6 @@ export default async function Post({ params }: Params) {
 
   return (
     <main>
-      <Alert preview={post.preview} />
       <Container>
         <Header />
         <article className="mb-32">
