@@ -2,7 +2,7 @@
 title: "Why not feminism?"
 excerpt: "The biggest mistake I have done was to believe that something which is obvious to me was obvious to everyone."
 coverImage: "/assets/blog/why-not-feminism/cover.jpg"
-date: "2024-03-01T17:02:35.338Z"
+date: "2024-03-08T15:33:23.025Z"
 author:
   name: Avani
   picture: "/assets/blog/authors/avani.jpeg"
