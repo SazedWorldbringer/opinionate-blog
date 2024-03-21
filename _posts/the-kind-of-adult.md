@@ -1,6 +1,6 @@
 ---
 title: "What kind of adult I want to be?"
-excerpt: "I will be 21 in two months, which sounds like a lot of time, but it isn't."
+excerpt: "I will be 21 in two months, which sounds like a lot of time, but is it?"
 coverImage: "/assets/blog/the-kind-of-adult/cover.jpg"
 date: "2024-03-21T12:15:34.271Z"
 author:
